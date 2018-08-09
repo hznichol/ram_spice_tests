@@ -1,0 +1,10 @@
+*
+* CustomSim linux64 M-2017.03-SP5  (built 22:57:57 Oct 10 2017)
+* build id: 4703081
+* Copyright (C)  2017 Synopsys Inc. All rights reserved.
+*
+
+clk2q_delay      =  3.2903983e-11  	targ =  1.0032904e-08  	trig =  1.0000000e-08  
+setup_hold_time  = -1.5869141e-11  	targ =  9.9841309e-09  	trig =  1.0000000e-08  
+temper           =  2.5000000e+01  
+alter#           =  1.0000000e+00  

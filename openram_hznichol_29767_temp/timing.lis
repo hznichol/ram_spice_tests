@@ -1,0 +1,1171 @@
+
+Circuit: * delay stimulus for period of 5.0n load=1.6728ff slew=0.04ns
+
+Warning: no nodes given: .plot v(*)
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: (B1 + Weff) may be too small.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: This model supports BSIM4.2.1, 4.3.0 and 4.4.0; you specified a wrong version number.
+Warning: vclk: no DC value, transient time 0 value used
+Warning: voeb: no DC value, transient time 0 value used
+Warning: vweb: no DC value, transient time 0 value used
+Warning: vcsb: no DC value, transient time 0 value used
+Warning: va[3]: no DC value, transient time 0 value used
+Warning: va[2]: no DC value, transient time 0 value used
+Warning: va[1]: no DC value, transient time 0 value used
+Warning: va[0]: no DC value, transient time 0 value used
+Warning: vdin[1]: no DC value, transient time 0 value used
+Warning: vdin[0]: no DC value, transient time 0 value used
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+vdd                                          0
+0.0                                          0
+testvdd                                      0
+testgnd                                      0
+xsram.xbank0.bl[0]                           0
+xsram.xbank0.wl[15]                          0
+xsram.xbank0.xbitcell_array.xbit_r15_c0.q               0
+xsram.xbank0.br[0]                           0
+xsram.xbank0.xbitcell_array.xbit_r15_c0.qb               0
+xsram.xbank0.bl[1]                           0
+xsram.xbank0.wl[0]                           0
+xsram.xbank0.xbitcell_array.xbit_r0_c1.q               0
+xsram.xbank0.br[1]                           0
+xsram.xbank0.xbitcell_array.xbit_r0_c1.qb               0
+xsram.xbank0.wl[1]                           0
+xsram.xbank0.xbitcell_array.xbit_r1_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r1_c1.qb               0
+xsram.xbank0.wl[2]                           0
+xsram.xbank0.xbitcell_array.xbit_r2_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r2_c1.qb               0
+xsram.xbank0.wl[3]                           0
+xsram.xbank0.xbitcell_array.xbit_r3_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r3_c1.qb               0
+xsram.xbank0.wl[4]                           0
+xsram.xbank0.xbitcell_array.xbit_r4_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r4_c1.qb               0
+xsram.xbank0.wl[5]                           0
+xsram.xbank0.xbitcell_array.xbit_r5_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r5_c1.qb               0
+xsram.xbank0.wl[6]                           0
+xsram.xbank0.xbitcell_array.xbit_r6_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r6_c1.qb               0
+xsram.xbank0.wl[7]                           0
+xsram.xbank0.xbitcell_array.xbit_r7_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r7_c1.qb               0
+xsram.xbank0.wl[8]                           0
+xsram.xbank0.xbitcell_array.xbit_r8_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r8_c1.qb               0
+xsram.xbank0.wl[9]                           0
+xsram.xbank0.xbitcell_array.xbit_r9_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r9_c1.qb               0
+xsram.xbank0.wl[10]                          0
+xsram.xbank0.xbitcell_array.xbit_r10_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r10_c1.qb               0
+xsram.xbank0.wl[11]                          0
+xsram.xbank0.xbitcell_array.xbit_r11_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r11_c1.qb               0
+xsram.xbank0.wl[12]                          0
+xsram.xbank0.xbitcell_array.xbit_r12_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r12_c1.qb               0
+xsram.xbank0.wl[13]                          0
+xsram.xbank0.xbitcell_array.xbit_r13_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r13_c1.qb               0
+xsram.xbank0.wl[14]                          0
+xsram.xbank0.xbitcell_array.xbit_r14_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r14_c1.qb               0
+xsram.xbank0.xbitcell_array.xbit_r15_c1.q               0
+xsram.xbank0.xbitcell_array.xbit_r15_c1.qb               0
+xsram.clk_buf_bar                            0
+dout[0]                                      0
+xsram.xbank0.xsense_amp_array.xsa_d0.net_1               0
+xsram.xbank0.xsense_amp_array.xsa_d0.net_2               0
+xsram.s_en                                   0
+dout[1]                                      0
+xsram.xbank0.xsense_amp_array.xsa_d1.net_1               0
+xsram.xbank0.xsense_amp_array.xsa_d1.net_2               0
+xsram.xbank0.xwrite_driver_array.xxwrite_driver1.bl_bar               0
+xsram.bank_din[1]                            0
+xsram.xbank0.xwrite_driver_array.xxwrite_driver1.en_bar               0
+xsram.w_en                                   0
+xsram.xbank0.xwrite_driver_array.xxwrite_driver1.int1               0
+xsram.xbank0.xwrite_driver_array.xxwrite_driver1.int2               0
+xsram.xbank0.xwrite_driver_array.xxwrite_driver1.int3               0
+xsram.xbank0.xwrite_driver_array.xxwrite_driver1.int4               0
+xsram.xbank0.xrow_decoder.xpre[0].inbar[0]               0
+xsram.a[0]                                   0
+xsram.xbank0.xrow_decoder.xpre[0].inbar[1]               0
+xsram.a[1]                                   0
+xsram.xbank0.xrow_decoder.out[0]               0
+xsram.xbank0.xrow_decoder.xpre[0].z[0]               0
+xsram.xbank0.xrow_decoder.out[1]               0
+xsram.xbank0.xrow_decoder.xpre[0].z[1]               0
+xsram.xbank0.xrow_decoder.out[2]               0
+xsram.xbank0.xrow_decoder.xpre[0].z[2]               0
+xsram.xbank0.xrow_decoder.out[3]               0
+xsram.xbank0.xrow_decoder.xpre[0].z[3]               0
+xsram.xbank0.xrow_decoder.xpre[0].xxpre2x4_nand[0].net1               0
+xsram.xbank0.xrow_decoder.xpre[0].xxpre2x4_nand[1].net1               0
+xsram.xbank0.xrow_decoder.xpre[0].xxpre2x4_nand[2].net1               0
+xsram.xbank0.xrow_decoder.xpre[0].xxpre2x4_nand[3].net1               0
+xsram.xbank0.xrow_decoder.xpre[1].inbar[0]               0
+xsram.a[2]                                   0
+xsram.xbank0.xrow_decoder.xpre[1].inbar[1]               0
+xsram.a[3]                                   0
+xsram.xbank0.xrow_decoder.out[4]               0
+xsram.xbank0.xrow_decoder.xpre[1].z[0]               0
+xsram.xbank0.xrow_decoder.out[5]               0
+xsram.xbank0.xrow_decoder.xpre[1].z[1]               0
+xsram.xbank0.xrow_decoder.out[6]               0
+xsram.xbank0.xrow_decoder.xpre[1].z[2]               0
+xsram.xbank0.xrow_decoder.out[7]               0
+xsram.xbank0.xrow_decoder.xpre[1].z[3]               0
+xsram.xbank0.xrow_decoder.xpre[1].xxpre2x4_nand[0].net1               0
+xsram.xbank0.xrow_decoder.xpre[1].xxpre2x4_nand[1].net1               0
+xsram.xbank0.xrow_decoder.xpre[1].xxpre2x4_nand[2].net1               0
+xsram.xbank0.xrow_decoder.xpre[1].xxpre2x4_nand[3].net1               0
+xsram.xbank0.xrow_decoder.z[0]               0
+xsram.xbank0.xrow_decoder.xdec_nand[0].net1               0
+xsram.xbank0.xrow_decoder.z[1]               0
+xsram.xbank0.xrow_decoder.xdec_nand[1].net1               0
+xsram.xbank0.xrow_decoder.z[2]               0
+xsram.xbank0.xrow_decoder.xdec_nand[2].net1               0
+xsram.xbank0.xrow_decoder.z[3]               0
+xsram.xbank0.xrow_decoder.xdec_nand[3].net1               0
+xsram.xbank0.xrow_decoder.z[4]               0
+xsram.xbank0.xrow_decoder.xdec_nand[4].net1               0
+xsram.xbank0.xrow_decoder.z[5]               0
+xsram.xbank0.xrow_decoder.xdec_nand[5].net1               0
+xsram.xbank0.xrow_decoder.z[6]               0
+xsram.xbank0.xrow_decoder.xdec_nand[6].net1               0
+xsram.xbank0.xrow_decoder.z[7]               0
+xsram.xbank0.xrow_decoder.xdec_nand[7].net1               0
+xsram.xbank0.xrow_decoder.z[8]               0
+xsram.xbank0.xrow_decoder.xdec_nand[8].net1               0
+xsram.xbank0.xrow_decoder.z[9]               0
+xsram.xbank0.xrow_decoder.xdec_nand[9].net1               0
+xsram.xbank0.xrow_decoder.z[10]               0
+xsram.xbank0.xrow_decoder.xdec_nand[10].net1               0
+xsram.xbank0.xrow_decoder.z[11]               0
+xsram.xbank0.xrow_decoder.xdec_nand[11].net1               0
+xsram.xbank0.xrow_decoder.z[12]               0
+xsram.xbank0.xrow_decoder.xdec_nand[12].net1               0
+xsram.xbank0.xrow_decoder.z[13]               0
+xsram.xbank0.xrow_decoder.xdec_nand[13].net1               0
+xsram.xbank0.xrow_decoder.z[14]               0
+xsram.xbank0.xrow_decoder.xdec_nand[14].net1               0
+xsram.xbank0.xrow_decoder.z[15]               0
+xsram.xbank0.xrow_decoder.xdec_nand[15].net1               0
+xsram.xbank0.dec_out[0]                      0
+xsram.xbank0.dec_out[1]                      0
+xsram.xbank0.dec_out[2]                      0
+xsram.xbank0.dec_out[3]                      0
+xsram.xbank0.dec_out[4]                      0
+xsram.xbank0.dec_out[5]                      0
+xsram.xbank0.dec_out[6]                      0
+xsram.xbank0.dec_out[7]                      0
+xsram.xbank0.dec_out[8]                      0
+xsram.xbank0.dec_out[9]                      0
+xsram.xbank0.dec_out[10]                     0
+xsram.xbank0.dec_out[11]                     0
+xsram.xbank0.dec_out[12]                     0
+xsram.xbank0.dec_out[13]                     0
+xsram.xbank0.dec_out[14]                     0
+xsram.xbank0.dec_out[15]                     0
+xsram.xbank0.xwordline_driver.en_bar[0]               0
+xsram.clk_buf                                0
+xsram.xbank0.xwordline_driver.wl_bar[0]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand0.net1               0
+xsram.xbank0.xwordline_driver.en_bar[1]               0
+xsram.xbank0.xwordline_driver.wl_bar[1]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand1.net1               0
+xsram.xbank0.xwordline_driver.en_bar[2]               0
+xsram.xbank0.xwordline_driver.wl_bar[2]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand2.net1               0
+xsram.xbank0.xwordline_driver.en_bar[3]               0
+xsram.xbank0.xwordline_driver.wl_bar[3]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand3.net1               0
+xsram.xbank0.xwordline_driver.en_bar[4]               0
+xsram.xbank0.xwordline_driver.wl_bar[4]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand4.net1               0
+xsram.xbank0.xwordline_driver.en_bar[5]               0
+xsram.xbank0.xwordline_driver.wl_bar[5]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand5.net1               0
+xsram.xbank0.xwordline_driver.en_bar[6]               0
+xsram.xbank0.xwordline_driver.wl_bar[6]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand6.net1               0
+xsram.xbank0.xwordline_driver.en_bar[7]               0
+xsram.xbank0.xwordline_driver.wl_bar[7]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand7.net1               0
+xsram.xbank0.xwordline_driver.en_bar[8]               0
+xsram.xbank0.xwordline_driver.wl_bar[8]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand8.net1               0
+xsram.xbank0.xwordline_driver.en_bar[9]               0
+xsram.xbank0.xwordline_driver.wl_bar[9]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand9.net1               0
+xsram.xbank0.xwordline_driver.en_bar[10]               0
+xsram.xbank0.xwordline_driver.wl_bar[10]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand10.net1               0
+xsram.xbank0.xwordline_driver.en_bar[11]               0
+xsram.xbank0.xwordline_driver.wl_bar[11]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand11.net1               0
+xsram.xbank0.xwordline_driver.en_bar[12]               0
+xsram.xbank0.xwordline_driver.wl_bar[12]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand12.net1               0
+xsram.xbank0.xwordline_driver.en_bar[13]               0
+xsram.xbank0.xwordline_driver.wl_bar[13]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand13.net1               0
+xsram.xbank0.xwordline_driver.en_bar[14]               0
+xsram.xbank0.xwordline_driver.wl_bar[14]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand14.net1               0
+xsram.xbank0.xwordline_driver.en_bar[15]               0
+xsram.xbank0.xwordline_driver.wl_bar[15]               0
+xsram.xbank0.xwordline_driver.xwl_driver_nand15.net1               0
+xsram.xcontrol.cs_bar                        0
+csb                                          0
+xsram.xcontrol.cs                            0
+xsram.xcontrol.we_bar                        0
+web                                          0
+xsram.xcontrol.we                            0
+xsram.xcontrol.oe_bar                        0
+oeb                                          0
+xsram.xcontrol.oe                            0
+xsram.xcontrol.xclkbuf.zb_int                0
+clk                                          0
+xsram.xcontrol.xclkbuf.z_int                 0
+xsram.xcontrol.w_en_bar                      0
+xsram.xcontrol.xnand3_w_en_bar.net1               0
+xsram.xcontrol.xnand3_w_en_bar.net2               0
+xsram.xcontrol.pre_w_en                      0
+xsram.xcontrol.pre_w_en_bar                  0
+xsram.xcontrol.rbl_in_bar                    0
+xsram.xcontrol.xnand3_rbl_in_bar.net1               0
+xsram.xcontrol.xnand3_rbl_in_bar.net2               0
+xsram.xcontrol.rbl_in                        0
+xsram.xcontrol.pre_s_en_bar                  0
+xsram.xcontrol.pre_s_en                      0
+xsram.xcontrol.xreplica_bitline.bl[0]               0
+xsram.xcontrol.xreplica_bitline.delayed_en               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.dout_1               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.n_0_0               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.n_0_1               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.n_0_2               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.dout_2               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.n_1_0               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.n_1_1               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.n_1_2               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.dout_3               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.n_2_0               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.n_2_1               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.n_2_2               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.n_3_0               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.n_3_1               0
+xsram.xcontrol.xreplica_bitline.xdelay_chain.n_3_2               0
+xsram.xcontrol.xreplica_bitline.br[0]               0
+xsram.xcontrol.xreplica_bitline.xbitcell.net4               0
+xsram.xcontrol.xreplica_bitline.xload.xbit_r0_c0.q               0
+xsram.xcontrol.xreplica_bitline.xload.xbit_r0_c0.qb               0
+xsram.xcontrol.xreplica_bitline.xload.xbit_r1_c0.q               0
+xsram.xcontrol.xreplica_bitline.xload.xbit_r1_c0.qb               0
+xsram.xcontrol.xreplica_bitline.xload.xbit_r2_c0.q               0
+xsram.xcontrol.xreplica_bitline.xload.xbit_r2_c0.qb               0
+xsram.xcontrol.xreplica_bitline.xload.xbit_r3_c0.q               0
+xsram.xcontrol.xreplica_bitline.xload.xbit_r3_c0.qb               0
+a[0]                                         0
+a[1]                                         0
+a[2]                                         0
+a[3]                                         0
+xsram.bank_din[0]                            0
+din[0]                                       0
+din[1]                                       0
+pa_00                                        0
+pa_01                                        0
+pa_02                                        0
+pa_03                                        0
+bpa_03#branch                                0
+vvdd#branch                                  0
+bpa_02#branch                                0
+bpa_01#branch                                0
+bpa_00#branch                                0
+vclk#branch                                  0
+voeb#branch                                  0
+vweb#branch                                  0
+vcsb#branch                                  0
+va[3]#branch                                 0
+va[2]#branch                                 0
+va[1]#branch                                 0
+va[0]#branch                                 0
+vdin[1]#branch                               0
+vdin[0]#branch                               0
+vtestgnd#branch                              0
+vtestvdd#branch                              0
+vgnd#branch                                  0
+
+
+
+No. of Data Rows : 11194
+
+  Measurements for Transient Analysis
+
+delay_hl            =  2.654791e-09 targ=  2.267479e-08 trig=  2.002000e-08
+delay_lh            =  2.409246e-10 targ=  4.526092e-08 trig=  4.502000e-08
+slew_hl             =  1.157513e-10 targ=  2.274213e-08 trig=  2.262638e-08
+slew_lh             =  2.993839e-11 targ=  4.527933e-08 trig=  4.524939e-08
+write0_power        =  5.428446e-05 from=  1.000000e-08 to=  1.500050e-08
+write1_power        =  5.235257e-05 from=  3.000000e-08 to=  3.500050e-08
+read0_power         =  5.270454e-05 from=  2.000000e-08 to=  2.500050e-08
+read1_power         =  4.786642e-05 from=  4.500000e-08 to=  5.000050e-08
+
+Error: .plot: no v(*) analysis found.
+elapsed time since last call: 83.544 seconds.
+
+Total elapsed time: 83.544 seconds.
+
+Total DRAM available = 7793.082031 MB.
+DRAM currently available = 2013.113281 MB.
+Total ngspice program size = 10.777344 MB.
+Resident set size = 2.475586 MB.
+Shared ngspice pages = 716.000 kB.
+Text (code) pages = 1.324219 MB.
+Stack = 0 bytes.
+Library pages = 1.836914 MB.
+

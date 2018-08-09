@@ -1,0 +1,104 @@
+Checking license
+License initial existence check succeeded (no check-out yet)
+
+Commands
+----------------------------------------------------------------------------------------
+| command                        | scope | location                                    |
+|--------------------------------+-------+---------------------------------------------|
+| set_sim_level -level 7         |       | (/tmp/openram_hznichol_24027_temp/xa.cfg:1) |
+| set_powernet_level 7 -node vdd |       | (/tmp/openram_hznichol_24027_temp/xa.cfg:2) |
+|--------------------------------------------------------------------------------------|
+
+Options
+--------------------------------------------------------------------------------------------------
+| name           | type   | value                | location                                      |
+|----------------+--------+----------------------+-----------------------------------------------|
+| POST           | enum   | 1                    | (/tmp/openram_hznichol_24027_temp/stim.sp:76) |
+| PROBE          | flag   | ON                   | (/tmp/openram_hznichol_24027_temp/stim.sp:76) |
+| TITLE          | string | * Delay stimulus ... | (/tmp/openram_hznichol_24027_temp/stim.sp:1)  |
+| TRANSIENT_TIME | value  | 5.32813e-08          | (/tmp/openram_hznichol_24027_temp/stim.sp:75) |
+|------------------------------------------------------------------------------------------------|
+
+Summary of data compression for both waveform and diagnostic features
+-------------------------------------------------------------------------------
+| Data compression type           | Setting | Command to adjust it            |
+|---------------------------------+---------+---------------------------------|
+| time roundoff resolution        | 0       | set_waveform_option -tres       |
+| slope-based voltage compression | 1e-06   | set_waveform_option -compress_v |
+| slope-based current compression | 1e-12   | set_waveform_option -compress_i |
+|-----------------------------------------------------------------------------|
+
+Summary of data compression for waveform only
+-----------------------------------------------------------------------
+| Data compression type       | Setting | Command to adjust it        |
+|-----------------------------+---------+-----------------------------|
+| voltage roundoff resolution | 1e-06   | set_waveform_option -grid_v |
+| current roundoff resolution | 1e-12   | set_waveform_option -grid_i |
+|---------------------------------------------------------------------|
+
+Warning: "Unsupported option" occurs 2 times.
+
+Source Files:
+---------------------------------------------------------------------------------------------------------------
+| name                                                                                                | type  |
+|-----------------------------------------------------------------------------------------------------+-------|
+| /bsoe/software/design-kits/FreePDK45/ncsu_basekit/models/hspice/tran_models/models_nom/NMOS_VTG.inc | ideal |
+| /bsoe/software/design-kits/FreePDK45/ncsu_basekit/models/hspice/tran_models/models_nom/PMOS_VTG.inc | ideal |
+| /tmp/openram_hznichol_24027_temp/reduced.sp                                                         | ideal |
+| /tmp/openram_hznichol_24027_temp/stim.sp                                                            | ideal |
+| /tmp/openram_hznichol_24027_temp/xa.cfg                                                             | ideal |
+|-------------------------------------------------------------------------------------------------------------|
+
+Warning: "Warnings/Messages from CMI" occurs 20 times. The first 10 warnings are tabulated. To change the limit for
+every message type, use: "set_message_option -limit <limit>"
+
+Nodes statistics:
+-----------------
+| type  | count |
+|-------+-------|
+| TOTAL | 371   |
+|---------------|
+
+Element statistics:
+----------------------------------------------
+| type      | format | count | unique models |
+|-----------+--------+-------+---------------|
+| NMOS      | HSPICE | 375   | 9             |
+| PMOS      | HSPICE | 337   | 11            |
+| V         | HSPICE | 14    | 8             |
+| SIMPLE Cg |        | 2     |               |
+| TOTAL     |        | 728   | 28            |
+|--------------------------------------------|
+
+Warning: feature is not supported by the license server: hsim-sc
+
+Warning: feature is not supported by the license server: hsim-ms
+
+Warning: feature is not supported by the license server: fastspice_xa
+
+Warning: feature is not supported by the license server: fastspice_xa
+
+Warning: feature is not supported by the license server: cktsimprofs-xsim
+License check: effective XA_SHARED_LICENSE_ORDER = xsim
+Base license checking succeeded
+
+Warning: "Model parameter override" occurs 1 times.
+
+Warning: "Dangling terminal" occurs 2 times.
+
+Warning: "Unconnected node" occurs 2 times.
+UIC statement is used in the netlist, DC analysis is skipped
+FSDB Writer, Release Verdi_M-2017.03-SP2, RH Linux x86_64/64bit, 08/08/2018
+(C) 1996 - 2018 by Synopsys, Inc.
+
+cpu=20.0s/wall=10.1s/619MB (31.9% t=17ns. Estimated: 17s remaining)
+cpu=40.2s/wall=20.2s/619MB (59.4% t=32ns. Estimated: 12s remaining)
+cpu=1:00/wall=30.2s/619MB (93.1% t=50ns. Estimated: 2s remaining)Peak Virtual Memory = 619 M
+Grand Total Time = 62 sec (1min 2sec)
+Total Wall Time = 31 sec
+Total number of comparison errors = 0
+                                                                                XA done: see "/tmp/openram_hznichol_24027_temp/xa.log" for details.
+
+real	0m31.600s
+user	1m1.921s
+sys	0m0.629s

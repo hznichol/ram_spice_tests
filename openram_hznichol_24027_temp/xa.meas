@@ -1,0 +1,16 @@
+*
+* CustomSim linux64 M-2017.03-SP5  (built 22:57:57 Oct 10 2017)
+* build id: 4703081
+* Copyright (C)  2017 Synopsys Inc. All rights reserved.
+*
+
+delay_hl         =  2.5759535e-09  	targ =  2.1970954e-08  	trig =  1.9395000e-08  
+delay_lh         =  2.3757736e-10  	targ =  4.3851327e-08  	trig =  4.3613750e-08  
+slew_hl          =  1.1363655e-10  	targ =  2.2036321e-08  	trig =  2.1922684e-08  
+slew_lh          =  2.8249150e-11  	targ =  4.3869316e-08  	trig =  4.3841067e-08  
+write0_power     =  5.0424626e-05  	from =   9.6875000e-09  	to   =   1.4531250e-08  
+write1_power     =  4.7958619e-05  	from =   2.9062500e-08  	to   =   3.3906250e-08  
+read0_power      =  4.9492615e-05  	from =   1.9375000e-08  	to   =   2.4218750e-08  
+read1_power      =  4.6076980e-05  	from =   4.3593750e-08  	to   =   4.8437500e-08  
+temper           =  2.5000000e+01  
+alter#           =  1.0000000e+00  

@@ -1,0 +1,396 @@
+-------------------------------------------------------------
+CustomSim linux64 M-2017.03-SP5 (built 22:57:57 Oct 10 2017)
+-------------------------------------------------------------
+
+Build id: 4703081
+
+Command Line: /bsoe/software/synopsys/xa-M-2017.03-SP5/linux64/exec/xa /tmp/openram_hznichol_24027_temp/stim.sp -c
+/tmp/openram_hznichol_24027_temp/xa.cfg -o /tmp/openram_hznichol_24027_temp/xa -mt 2
+
+Start time: Wed Aug 8 17:34:13 2018
+
+=> INITIAL SUMMARY: Time taken = 0 sec, Wall time = 0 sec
+
+Virtual memory: 234M, Peak Virtual Memory: 234M, Physical Memory: 21M.
+
+Environment variables set:
+-------------------------------------------------------------------------------
+| name            | value                                                     |
+|-----------------+-----------------------------------------------------------|
+| XA_GCC          | /bsoe/software/synopsys/xa-M-2017.03-SP5/GNU/linux64/gcc- |
+|                 | 5.2.0/bin/gcc -m64                                        |
+| TCL_LIBRARY     | /bsoe/software/synopsys/xa-M-2017.03-SP5/etc/auxx/tcl     |
+| CDSHOME         | /bsoe/software/cadence/ic                                 |
+| AMSHOME         | /bsoe/software/cadence/incisive                           |
+| SNPS_PLATFORM   | linux64                                                   |
+| XA_HOME         | /bsoe/software/synopsys/xa-M-2017.03-SP5                  |
+| XA_ARCH         | LINUX64                                                   |
+| XA_64           | 1                                                         |
+| HOME            | /soe/hznichol                                             |
+| PWD             | /soe/hznichol/git_repos/PrivateRAM/compiler               |
+| LD_LIBRARY_PATH | /bsoe/software/synopsys/xa-M-2017.03-SP5/linux64/lib:/bso |
+|                 | e/software/synopsys/xa-M-2017.03-SP5/linux64/interfaces:/ |
+|                 | bsoe/software/cadence/ic/share/oa/lib/linux_rhel50_gcc48x |
+|                 | _64/opt:/bsoe/software/cadence/ic/share/oa/lib/linux_rhel |
+|                 | 50_gcc48x_32/opt:/bsoe/software/glade/lib                 |
+| LM_LICENSE_FILE | 27000@license.soe.ucsc.edu                                |
+|-----------------------------------------------------------------------------|
+
+System information:
+----------------------------------------------------------------------
+|                  | User id        | hznichol                       |
+|                  | Host name      | waterdance.soe.ucsc.edu        |
+|                  | pid            | 25813                          |
+| ---------------- |                |                                |
+| Operating System | name           | Linux                          |
+|                  | version        | 3.10.0-862.9.1.el7.x86_64      |
+| ---------------- |                |                                |
+| Hardware data    | name           | x86_64                         |
+|                  | processor type | x86_64                         |
+|                  | platform name  | x86_64                         |
+|                  | model name     | AMD Opteron(tm) Processor 4334 |
+|                  | number of cpu  | 4                              |
+|                  | cpu MHz        | 3100.037                       |
+|                  | cache size     | 2048 KB                        |
+|                  | level 1 cache  | 16K Data                       |
+|                  | level 1 cache  | 64K Instruction                |
+|                  | level 2 cache  | 2048K Unified                  |
+|                  | level 3 cache  | 6144K Unified                  |
+|                  | avx            | 1                              |
+|--------------------------------------------------------------------|
+
+License initial existence check succeeded (no check-out yet)
+
+=> FE/LICENSE EXISTENCE CHECK SUMMARY: Time taken = 2 sec, Wall time = 1 sec
+
+Virtual memory: 291M, Peak Virtual Memory: 291M, Physical Memory: 24M.
+
+Initialization file "xa.ini" was not found.
+
+Total number of statements parsed: 450
+
+=> FE/PARSER SUMMARY: Time taken = 0 sec, Wall time = 0 sec
+
+Virtual memory: 465M, Peak Virtual Memory: 529M, Physical Memory: 49M.
+
+TM: alter Init.
+
+Multi-core usage statistic: 4 cores, used 2
+
+Commands
+----------------------------------------------------------------------------------------
+| command                        | scope | location                                    |
+|--------------------------------+-------+---------------------------------------------|
+| set_sim_level -level 7         |       | (/tmp/openram_hznichol_24027_temp/xa.cfg:1) |
+| set_powernet_level 7 -node vdd |       | (/tmp/openram_hznichol_24027_temp/xa.cfg:2) |
+|--------------------------------------------------------------------------------------|
+
+Options
+--------------------------------------------------------------------------------------------------
+| name           | type   | value                | location                                      |
+|----------------+--------+----------------------+-----------------------------------------------|
+| POST           | enum   | 1                    | (/tmp/openram_hznichol_24027_temp/stim.sp:76) |
+| PROBE          | flag   | ON                   | (/tmp/openram_hznichol_24027_temp/stim.sp:76) |
+| TITLE          | string | * Delay stimulus ... | (/tmp/openram_hznichol_24027_temp/stim.sp:1)  |
+| TRANSIENT_TIME | value  | 5.32813e-08          | (/tmp/openram_hznichol_24027_temp/stim.sp:75) |
+|------------------------------------------------------------------------------------------------|
+
+Summary of data compression for both waveform and diagnostic features
+-------------------------------------------------------------------------------
+| Data compression type           | Setting | Command to adjust it            |
+|---------------------------------+---------+---------------------------------|
+| time roundoff resolution        | 0       | set_waveform_option -tres       |
+| slope-based voltage compression | 1e-06   | set_waveform_option -compress_v |
+| slope-based current compression | 1e-12   | set_waveform_option -compress_i |
+|-----------------------------------------------------------------------------|
+
+Summary of data compression for waveform only
+-----------------------------------------------------------------------
+| Data compression type       | Setting | Command to adjust it        |
+|-----------------------------+---------+-----------------------------|
+| voltage roundoff resolution | 1e-06   | set_waveform_option -grid_v |
+| current roundoff resolution | 1e-12   | set_waveform_option -grid_i |
+|---------------------------------------------------------------------|
+
+Warning: "Unsupported option" occurs 2 times.
+
+Following options are not supported:
+------------------------------------------------------------------
+|                                               | name   | value |
+|-----------------------------------------------+--------+-------|
+| (/tmp/openram_hznichol_24027_temp/stim.sp:76) | TEMP   | 25    |
+| (/tmp/openram_hznichol_24027_temp/stim.sp:76) | RUNLVL | 4     |
+|----------------------------------------------------------------|
+
+Summary of output options and statements that contain wildcard:
+--------------------------------------------------------------------------------------
+| Location                                      | Pattern/Option | Number of matches |
+|-----------------------------------------------+----------------+-------------------|
+| (/tmp/openram_hznichol_24027_temp/stim.sp:78) | v(*)           | 371               |
+|------------------------------------------------------------------------------------|
+
+CAP HISTOGRAM
+------------------------------------------------------------
+| cap range        | number of caps | percentage | comment |
+|------------------+----------------+------------+---------|
+| > 1e-10          | 0              | 0.000000   |         |
+| (1e-11, 1e-10]   | 0              | 0.000000   |         |
+| (5e-12, 1e-11]   | 0              | 0.000000   |         |
+| (1e-12, 5e-12]   | 0              | 0.000000   |         |
+| (5e-13, 1e-12]   | 0              | 0.000000   |         |
+| (1e-13, 5e-13]   | 0              | 0.000000   |         |
+| (7.5e-14, 1e-13] | 0              | 0.000000   |         |
+| (5e-14, 7.5e-14] | 0              | 0.000000   |         |
+| (2.5e-14, 5e-14] | 0              | 0.000000   |         |
+| (1e-14, 2.5e-14] | 0              | 0.000000   |         |
+| (7.5e-15, 1e-14] | 0              | 0.000000   |         |
+| (5e-15, 7.5e-15] | 0              | 0.000000   |         |
+| (2.5e-15, 5e-15] | 0              | 0.000000   |         |
+| (1e-15, 2.5e-15] | 0              | 0.000000   |         |
+| (7.5e-16, 1e-15] | 0              | 0.000000   |         |
+| (5e-16, 7.5e-16] | 0              | 0.000000   |         |
+| (2.5e-16, 5e-16] | 0              | 0.000000   |         |
+| (1e-16, 2.5e-16] | 0              | 0.000000   |         |
+| (7.5e-17, 1e-16] | 0              | 0.000000   |         |
+| (5e-17, 7.5e-17] | 0              | 0.000000   |         |
+| (2.5e-17, 5e-17] | 0              | 0.000000   |         |
+| (1e-17, 2.5e-17] | 0              | 0.000000   |         |
+| (5e-18, 1e-17]   | 0              | 0.000000   |         |
+| (1e-18, 5e-18]   | 0              | 0.000000   |         |
+| (5e-19, 1e-18]   | 0              | 0.000000   |         |
+| (1e-19, 5e-19]   | 0              | 0.000000   |         |
+| (0, 1e-19]       | 0              | 0.000000   |         |
+| CCAP total       | 0              | 100        |         |
+| Negative cap     | 0              |            |         |
+| open-circuit     | 0              |            |         |
+| GCAP in netlist  | 2              |            |         |
+| total            | 2              |            |         |
+|----------------------------------------------------------|
+
+Source Files:
+---------------------------------------------------------------------------------------------------------------
+| name                                                                                                | type  |
+|-----------------------------------------------------------------------------------------------------+-------|
+| /bsoe/software/design-kits/FreePDK45/ncsu_basekit/models/hspice/tran_models/models_nom/NMOS_VTG.inc | ideal |
+| /bsoe/software/design-kits/FreePDK45/ncsu_basekit/models/hspice/tran_models/models_nom/PMOS_VTG.inc | ideal |
+| /tmp/openram_hznichol_24027_temp/reduced.sp                                                         | ideal |
+| /tmp/openram_hznichol_24027_temp/stim.sp                                                            | ideal |
+| /tmp/openram_hznichol_24027_temp/xa.cfg                                                             | ideal |
+|-------------------------------------------------------------------------------------------------------------|
+
+Warning: "Warnings/Messages from CMI" occurs 20 times. The first 10 warnings are tabulated. To change the limit for
+every message type, use: "set_message_option -limit <limit>"
+
+CMI Warnings/Messages:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                   | CMI Warnings/Messages                                                                                                                      |
+|---------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| (/tmp/openram_hznichol_24027_temp/reduced.sp:157) | (nmos_vtg:xsram.xbank0.xbitcell_array.xbit_r15_c0.mm3) Acde = 0.276941 may be too small in BSIM4 model with w=1.35e-07 l=5e-08.            |
+| (/tmp/openram_hznichol_24027_temp/reduced.sp:159) | (nmos_vtg:xsram.xbank0.xbitcell_array.xbit_r15_c0.mm1) Acde = 0.276941 may be too small in BSIM4 model with w=2.05e-07 l=5e-08.            |
+| (/tmp/openram_hznichol_24027_temp/reduced.sp:161) | (pmos_vtg:xsram.xbank0.xbitcell_array.xbit_r15_c0.mm5) Acde = 0.300892 may be too small in BSIM4 model with w=9e-08 l=5e-08.               |
+|                                                   | (pmos_vtg:xsram.xbank0.xbitcell_array.xbit_r15_c0.mm5)(B1 + Weff) may be too small in BSIM4 model with w=9e-08 l=5e-08.                    |
+| (/tmp/openram_hznichol_24027_temp/reduced.sp:261) | (pmos_vtg:xsram.xbank0.xprecharge_array.xpre_column_1.mlower_pmos) Acde = 0.300892 may be too small in BSIM4 model with w=2.7e-07 l=5e-08. |
+| (/tmp/openram_hznichol_24027_temp/reduced.sp:271) | (pmos_vtg:xsram.xbank0.xsense_amp_array.xsa_d0.m_1) Acde = 0.300892 may be too small in BSIM4 model with w=5.4e-07 l=5e-08.                |
+| (/tmp/openram_hznichol_24027_temp/reduced.sp:273) | (nmos_vtg:xsram.xbank0.xsense_amp_array.xsa_d0.m_2) Acde = 0.276941 may be too small in BSIM4 model with w=2.7e-07 l=5e-08.                |
+| (/tmp/openram_hznichol_24027_temp/reduced.sp:275) | (pmos_vtg:xsram.xbank0.xsense_amp_array.xsa_d0.m_5) Acde = 0.300892 may be too small in BSIM4 model with w=7.2e-07 l=5e-08.                |
+| (/tmp/openram_hznichol_24027_temp/reduced.sp:288) | (pmos_vtg:xsram.xbank0.xwrite_driver_array.xxwrite_driver1.minp) Acde = 0.300892 may be too small in BSIM4 model with w=3.6e-07 l=5e-08.   |
+| (/tmp/openram_hznichol_24027_temp/reduced.sp:289) | (nmos_vtg:xsram.xbank0.xwrite_driver_array.xxwrite_driver1.minn) Acde = 0.276941 may be too small in BSIM4 model with w=1.8e-07 l=5e-08.   |
+| (/tmp/openram_hznichol_24027_temp/reduced.sp:334) | (nmos_vtg:xsram.xbank0.xrow_decoder.xpre[0].xxpre_inv[0].mpinv_nmos) Acde = 0.276941 may be too small in BSIM4 model with w=9e-08 l=5e-08. |
+|                                                   | (nmos_vtg:xsram.xbank0.xrow_decoder.xpre[0].xxpre_inv[0].mpinv_nmos)(B1 + Weff) may be too small in BSIM4 model with w=9e-08 l=5e-08.      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Nodes statistics:
+-----------------
+| type  | count |
+|-------+-------|
+| TOTAL | 371   |
+|---------------|
+
+Element statistics:
+----------------------------------------------
+| type      | format | count | unique models |
+|-----------+--------+-------+---------------|
+| NMOS      | HSPICE | 375   | 9             |
+| PMOS      | HSPICE | 337   | 11            |
+| V         | HSPICE | 14    | 8             |
+| SIMPLE Cg |        | 2     |               |
+| TOTAL     |        | 728   | 28            |
+|--------------------------------------------|
+
+Warning: feature is not supported by the license server: hsim-sc
+
+Warning: feature is not supported by the license server: hsim-ms
+
+Warning: feature is not supported by the license server: fastspice_xa
+
+Warning: feature is not supported by the license server: fastspice_xa
+
+Warning: feature is not supported by the license server: cktsimprofs-xsim
+
+License check: effective XA_SHARED_LICENSE_ORDER = xsim
+
+Base license checking succeeded
+
+=> FE/LICENSE CHECK SUMMARY: Time taken = 0 sec, Wall time = 0 sec
+
+Virtual memory: 471M, Peak Virtual Memory: 529M, Physical Memory: 62M.
+
+Summary of License Checking
+------------------------------------------------
+| Effective elem. count | 712                  |
+| Flexlm version        | 11.12                |
+| Key                   | xsim                 |
+| Copies                | 1                    |
+| Version               | 2017.03              |
+| Expiration date       | 18-dec-2018/2017.12  |
+| Server                | license.soe.ucsc.edu |
+|----------------------------------------------|
+
+Warning: "Model parameter override" occurs 1 times.
+
+Multiple parameter values are given, last one will be used:
+-----------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                         | model    | parameter | used value |
+|---------------------------------------------------------------------------------------------------------+----------+-----------+------------|
+| (/bsoe/software/design-kits/FreePDK45/ncsu_basekit/models/hspice/tran_models/models_nom/PMOS_VTG.inc:3) | pmos_vtg | toxref    | 1.3e-09    |
+|---------------------------------------------------------------------------------------------------------------------------------------------|
+
+Warning: "Dangling terminal" occurs 2 times.
+
+The following elements have a terminal that is not connected to any other element
+----------------------------------------------------------------------
+|                                               | Element  | Node    |
+|-----------------------------------------------+----------+---------|
+| (/tmp/openram_hznichol_24027_temp/stim.sp:11) | vtestvdd | testvdd |
+| (/tmp/openram_hznichol_24027_temp/stim.sp:12) | vtestgnd | testgnd |
+|--------------------------------------------------------------------|
+
+Warning: "Unconnected node" occurs 2 times.
+
+The following nodes are not connected to any element
+-----------------------------------------------------------------------------------
+|                                                   | Instance | Node             |
+|---------------------------------------------------+----------+------------------|
+| (/tmp/openram_hznichol_24027_temp/reduced.sp:528) | xsram    | xsram.tri_en_bar |
+| (/tmp/openram_hznichol_24027_temp/reduced.sp:528) | xsram    | xsram.tri_en     |
+|---------------------------------------------------------------------------------|
+
+=> FE SUMMARY: Time taken = 2 sec, Wall time = 0 sec
+
+Virtual memory: 472M, Peak Virtual Memory: 529M, Physical Memory: 64M.
+
+UIC statement is used in the netlist, DC analysis is skipped
+
+=> DC SUMMARY: Time taken = 0 sec, Wall time = 0 sec
+
+Virtual memory: 472M, Peak Virtual Memory: 529M, Physical Memory: 64M.
+
+Load FSDB writer lib /bsoe/software/synopsys/xa-M-2017.03-SP5/linux64/lib/FSDB/5.5/libnffw.so.
+
+CustomSim FSDB version is 5.5.
+
+Summary of Partition for Transient Analysis:
+-------------------------------------------------
+| number of | RC's      | nonRC's   | nodes     |
+| regions   | in region | in region | in region |
+|-----------+-----------+-----------+-----------|
+| 1         | 0         | 0         | 0         |
+| 1         | 0         | 0         | 3         |
+| 1         | 0         | 0         | 24        |
+| 1         | 0         | 1         | 4         |
+| 2         | 0         | 22        | 96        |
+| 5         | 0         | 23        | 102       |
+| 1         | 0         | 23        | 103       |
+| 1         | 0         | 25        | 111       |
+| 1         | 1         | 27        | 121       |
+| 1         | 3         | 38        | 166       |
+| 1         | 0         | 52        | 228       |
+| 1         | 0         | 52        | 229       |
+| 1         | 0         | 55        | 244       |
+| 1         | 0         | 61        | 269       |
+| 1         | 0         | 72        | 320       |
+| 1         | 0         | 77        | 342       |
+| 1         | 0         | 82        | 364       |
+|-----------------------------------------------|
+
+Largest partition details
+------------------------------------------------------------------------------------
+| Total number of non-RC elements | 82                                             |
+| Total number of RC elements     | 0                                              |
+| Total MOS                       | 82                                             |
+| Total non-MOS                   | 0                                              |
+| Total number of nodes           | 364                                            |
+| Nodes with maximum connections  | : xsram.clk_buf (52)                           |
+|                                 | : xsram.xbank0.br[1] (21)                      |
+|                                 | : xsram.xbank0.bl[1] (21)                      |
+|                                 | : xsram.xbank0.xrow_decoder.out[7] (10)        |
+|                                 | : xsram.xbank0.xrow_decoder.out[2] (10)        |
+|                                 | : xsram.xbank0.xrow_decoder.out[1] (10)        |
+|                                 | : xsram.xbank0.xrow_decoder.out[0] (10)        |
+|                                 | : xsram.a[3] (10)                              |
+|                                 | : xsram.a[2] (10)                              |
+|                                 | : xsram.xbank0.xwordline_driver.wl_bar[11] (5) |
+|----------------------------------------------------------------------------------|
+
+Total Number of Regions: 22
+
+=> TR/SETUP SUMMARY: Time taken = 1 sec, Wall time = 0 sec
+
+Virtual memory: 491M, Peak Virtual Memory: 529M, Physical Memory: 77M.
+
+Synchronous Groups
+---------------------------------------------------------------------
+| Group Id | Synched Regions                        | Synched Nodes |
+|----------+----------------------------------------+---------------|
+| 0        | 21 (Has largest region 4 (Nnode: 364)) | 3230          |
+|-------------------------------------------------------------------|
+
+SimulationEngine : Asynchronous Multicore Simulator (Version 2) is used.
+
+Summary of probed waveforms:
+-----------------------------------------
+| Total waveforms written to file | 371 |
+| Logic waveforms                 | 0   |
+| Other waveforms                 | 371 |
+| Waveform aliases                | 0   |
+|---------------------------------------|
+
+Engine starting time = (Wed Aug 8 17:34:15 2018 )
+10% time=5.3ns model_evaluations=615K cpu=4 mem=27M wall=2
+20% time=11ns model_evaluations=1M cpu=9 mem=27M wall=4
+30% time=16ns model_evaluations=2M cpu=15 mem=27M wall=7
+41% time=22ns model_evaluations=3M cpu=21 mem=27M wall=10
+50% time=27ns model_evaluations=4M cpu=30 mem=27M wall=15
+60% time=32ns model_evaluations=4M cpu=36 mem=27M wall=18
+70% time=37ns model_evaluations=5M cpu=41 mem=27M wall=20
+80% time=43ns model_evaluations=6M cpu=46 mem=27M wall=23
+90% time=48ns model_evaluations=6M cpu=53 mem=27M wall=26
+100% time=53ns model_evaluations=7M cpu=57 mem=27M wall=28
+
+Engine ending time = (Wed Aug 8 17:34:44 2018 )
+
+CPU Utilization: 2.0 (requested), 2.0 (used), 100.0%
+
+=> TR/ENGINE SUMMARY: Time taken = 57 sec, Wall time = 28 sec
+
+Virtual memory: 555M, Peak Virtual Memory: 619M, Physical Memory: 81M.
+
+
+
+=> TR/ANALYSIS SUMMARY: Time taken = 0 sec, Wall time = 0 sec
+
+Virtual memory: 547M, Peak Virtual Memory: 619M, Physical Memory: 73M.
+
+=> TR SUMMARY: Time taken = 59 sec, Wall time = 29 sec
+
+Virtual memory: 547M, Peak Virtual Memory: 619M, Physical Memory: 73M.
+
+Peak Virtual Memory = 619 M
+
+Grand Total Time = 62 sec (1min 2sec)
+
+Total Wall Time = 31 sec
+
+Total number of comparison errors = 0
+
+XA done (Wed Aug 8 17:34:44 2018 ).
