@@ -1,0 +1,13 @@
+******
+** ngspice-28 : Circuit level simulation program
+** The U. C. Berkeley CAD Group
+** Copyright 1985-1994, Regents of the University of California.
+** Please get your ngspice manual from http://ngspice.sourceforge.net/docs.html
+** Please file your bug-reports at http://ngspice.sourceforge.net/bugrep.html
+** Creation Date: Fri Aug 10 05:44:26 UTC 2018
+******
+
+Batch mode
+
+Comments and warnings go to log-file: /tmp/openram_hznichol_3057_temp/timing.lis
+
